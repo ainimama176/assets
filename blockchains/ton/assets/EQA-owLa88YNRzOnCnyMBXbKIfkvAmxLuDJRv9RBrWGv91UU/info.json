@@ -1,0 +1,10 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "A stealth USDT clone token.",
+  "website": "https://tether.to",
+  "status": "active",
+  "id": "EQA-owLa88YNRzOnCnyMBXbKIfkvAmxLuDJRv9RBrWGv91UU",
+  "tags": ["stablecoin"]
+}
