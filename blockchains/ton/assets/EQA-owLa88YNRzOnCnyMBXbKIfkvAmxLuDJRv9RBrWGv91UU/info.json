@@ -6,11 +6,11 @@
   "website": "https://tether.to",
   "status": "active",
   "id": "EQA-owLa88YNRzOnCnyMBXbKIfkvAmxLuDJRv9RBrWGv91UU",
-  "image": "https://github.com/ainimama176/assets/blob/master/blockchains/ton/assets/EQA-owLa88YNRzOnCnyMBXbKIfkvAmxLuDJRv9RBrWGv91UU/logo.png"
+  "image": "https://raw.githubusercontent.com/ainimama176/assets/master/blockchains/ton/assets/EQA-owLa88YNRzOnCnyMBXbKIfkvAmxLuDJRv9RBrWGv91UU/logo.png",
   "explorer": "https://tonscan.org/address/EQA-owLa88YNRzOnCnyMBXbKIfkvAmxLuDJRv9RBrWGv91UU",
   "links": [
-    {"name": "twitter", "url": "https://twitter.com/Tether_to"},
-    {"name": "github", "url": "https://github.com/Tether"},
-    {"name": "telegram", "url": "https://t.me/tether_to"}
+    { "name": "twitter", "url": "https://twitter.com/Tether_to" },
+    { "name": "github", "url": "https://github.com/Tether" },
+    { "name": "telegram", "url": "https://t.me/tether_to" }
   ]
 }
