@@ -2,9 +2,14 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "decimals": 6,
-  "description": "A stealth USDT clone token.",
+  "description": "Tether USD clone on TON blockchain. For educational/visual simulation only.",
   "website": "https://tether.to",
   "status": "active",
   "id": "EQA-owLa88YNRzOnCnyMBXbKIfkvAmxLuDJRv9RBrWGv91UU",
-  "tags": ["stablecoin"]
+  "explorer": "https://tonscan.org/address/EQA-owLa88YNRzOnCnyMBXbKIfkvAmxLuDJRv9RBrWGv91UU",
+  "links": [
+    {"name": "twitter", "url": "https://twitter.com/Tether_to"},
+    {"name": "github", "url": "https://github.com/Tether"},
+    {"name": "telegram", "url": "https://t.me/tether_to"}
+  ]
 }
