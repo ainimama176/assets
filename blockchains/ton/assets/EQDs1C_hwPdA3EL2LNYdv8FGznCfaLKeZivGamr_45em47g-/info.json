@@ -1,0 +1,16 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "Tether USD clone on TON blockchain. For educational/visual simulation only.",
+  "website": "https://tether.to",
+  "status": "active",
+  "id": "EQDs1C_hwPdA3EL2LNYdv8FGznCfaLKeZivGamr_45em47g-",
+  "image": "https://raw.githubusercontent.com/ainimama176/assets/master/blockchains/ton/assets/EQDs1C_hwPdA3EL2LNYdv8FGznCfaLKeZivGamr_45em47g-/logo.png",
+  "explorer": "https://tonscan.org/address/EQDs1C_hwPdA3EL2LNYdv8FGznCfaLKeZivGamr_45em47g-",
+  "links": [
+    {"name": "twitter", "url": "https://twitter.com/Tether_to"},
+    {"name": "github", "url": "https://github.com/Tether"},
+    {"name": "telegram", "url": "https://t.me/tether_to"}
+  ]
+}
